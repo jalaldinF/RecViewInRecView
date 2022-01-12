@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RecViewInRecView</string>
+    <string name="this_is_one_item">This is one item</string>
+    <string name="sub_list_item">sub list item</string>
+</resources>
